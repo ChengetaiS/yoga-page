@@ -92,4 +92,12 @@ p {
 }
 
 @media (max-width: 576px) {
+  .primary-link {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
 }
